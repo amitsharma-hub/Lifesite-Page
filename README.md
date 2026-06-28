@@ -101,14 +101,6 @@ During this project I practiced:
 
 ---
 
-# 📸 Screenshots
-
-### 🏠 Home Page
-
-*Add your screenshot here*
-
----
-
 # 🔮 Future Improvements
 
 * Add JavaScript
@@ -136,7 +128,7 @@ Contributions are welcome!
 
 # 👨‍💻 Author
 
-**Amit Kumar**
+**Amit Sharma**
 
 🌐 GitHub: https://github.com/amitsharma-hub
 
